@@ -24,7 +24,7 @@ img {
 	border: 0;
 }
 #header {
-	background: url(bg-gray.png) repeat-x left top;
+	background: url("https://github.com/nagarajkv/testjavasample/blob/master/bg-gray.png?raw=true") repeat-x left top;
 	height: 100px;
 	position: relative;
 	width: 100%;
@@ -50,7 +50,7 @@ img {
 }
 
 #header div a.logo {
-	background: url(ng.svg) no-repeat center top;
+	background: url("https://github.com/nagarajkv/testjavasample/blob/master/ng.svg?raw=true") no-repeat center top;
 	display: block;
 	height: 100px;
 	text-indent: -99999px;
